@@ -1,3 +1,3 @@
 document.body.onload = function () {
-  document.write('commit 2');
+  document.write('commit 3');
 }
